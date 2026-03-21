@@ -1,6 +1,6 @@
 [project]
 name = "chemfyi"
-version = "0.1.0"
+version = "0.1.1"
 description = "Periodic table and chemistry reference API client — chemfyi.com"
 readme = "README.md"
 license = "MIT"
@@ -40,6 +40,7 @@ all = ["chemfyi[api,cli,mcp]"]
 
 [project.scripts]
 chemfyi = "chemfyi.cli:app"
+chemfyi-mcp = "chemfyi.mcp_server:main"
 
 [project.entry-points."mcp.servers"]
 chemfyi = "chemfyi.mcp_server:mcp"
