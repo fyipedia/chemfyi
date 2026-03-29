@@ -306,6 +306,17 @@ Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosyst
 | fyipedia | [PyPI](https://pypi.org/project/fyipedia/) | — | Unified CLI: `fyi chem info hydrogen` — [fyipedia.com](https://fyipedia.com/) |
 | fyipedia-mcp | [PyPI](https://pypi.org/project/fyipedia-mcp/) | — | Unified MCP hub for AI assistants — [fyipedia.com](https://fyipedia.com/) |
 
+## Embed Widget
+
+Embed [ChemFYI](https://chemfyi.com) widgets on any website with [chemfyi-embed](https://widget.chemfyi.com):
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/chemfyi-embed@1/dist/embed.min.js"></script>
+<div data-chemfyi="entity" data-slug="example"></div>
+```
+
+Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.chemfyi.com)
+
 ## License
 
 MIT
