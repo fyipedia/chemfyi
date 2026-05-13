@@ -317,6 +317,20 @@ Embed [ChemFYI](https://chemfyi.com) widgets on any website with [chemfyi-embed]
 
 Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.chemfyi.com)
 
+<!-- WIDGET-OSS-MONITOR: cross-links START -->
+
+## Related Resources
+
+- **Widget Hub**: [widget.labfyi.com](https://widget.labfyi.com/) — interactive widgets for the Science FYI ecosystem
+- **Main Site**: [labfyi.com](https://labfyi.com/) — full reference
+- **Family Network**: see [/developers/](https://labfyi.com/developers/) for sister packages
+
+## FYIPedia Ecosystem
+
+This package is part of the [FYIPedia](https://fyipedia.com) developer tools ecosystem. Sister packages in this family: see widget hub link above.
+
+<!-- WIDGET-OSS-MONITOR: cross-links END -->
+
 ## License
 
 MIT
